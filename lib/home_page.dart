@@ -20,15 +20,15 @@ class _HomePageState extends State<HomePage> {
       amount: '-22,50',
     ),
     TransactionModel(
-      logo: 'assets/images/gas-station.png',
-      name: "Petrol",
-      date: '22.02.2020',
+      logo: 'assets/images/sionmadrina.png',
+      name: "Sion Madrina",
+      date: '50.02.2020',
       amount: '-75,45',
     ),
     TransactionModel(
-      logo: 'assets/images/mcdonalds.png',
+      logo: 'assets/images/kfc.png',
       name: "McDonald\'s",
-      date: '22.02.2020',
+      date: '19.02.2020',
       amount: '-22,50',
     ),
     TransactionModel(
